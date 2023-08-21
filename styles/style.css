@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+.text-center h3{
+color: #111;
+
+font-weight: 500;
+}
+.text-center h1{
+color: #111;
+
+
+}
+.text-center p{
+color: #111;
+font-size: 24px;
+font-weight: 500;
+}
+.text-center button{
+color: #FFF;
+font-size: 24px;
+font-weight: 600;
+}
+/* .hero-content{
+    padding-left: -100px;
+    padding-right: -100px;
+    width: 1280px;
+}
+.hero-content img{
+    width: 30%;
+    height: 30%;
+} */
+
+.card-section{
+
+background: #F8F8F8;   
+/* background: #e6e3e3;    */
+}
+.cards-title{
+color: #111;
+font-size: 40px;
+font-weight: 600;
+}
+
+.card-body h2{
+color: #111;
+font-size: 20px;
+font-weight: 600;
+}
+.card-body p{
+color: rgba(17, 17, 17, 0.50);
+font-size: 20px;
+font-weight: 400;
+margin-bottom: 10px;
+}
+.rating{
+    margin-top: 20px;
+}
+.shopping-cart-coupon h3{
+    color: #111;
+    font-size: 24px;
+    font-weight: 500;
+}
+.coupon input{
+    border-radius: 10px 0px 0px 10px;
+    height: 50px;
+}
+
+.coupon .btn{
+    height: 50px;
+    border-radius: 0px 10px 10px 0px !important;
+    margin-left: -7px;
+}
+.modal-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.modal-card-title{
+color: #111;
+font-size: 48px;
+font-weight: 700;
+}
